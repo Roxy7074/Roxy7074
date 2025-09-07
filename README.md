@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello!
+## How to reach me: story.r@northeastern.edu
 
 <!--
 **Roxy7074/Roxy7074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
