@@ -4,6 +4,8 @@
 - Im currently studying the software engineering foundations for LLM-integrated systems, building these systems and integrating
 them into software and focusing on rigourously testing these models and understanding their limitations.
 
+- I am looking to collaborate on a project that integrates AI in C!
+
 <!--
 **Roxy7074/Roxy7074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
