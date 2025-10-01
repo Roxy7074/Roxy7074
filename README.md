@@ -1,5 +1,8 @@
 ## Hello!
-## How to reach me: story.r@northeastern.edu
+## How to reach me: story.r@northeastern.edu and/or roxys387@gmail.com
+
+- Im currently studying the software engineering foundations for LLM-integrated systems, building these systems and integrating
+them into software and focusing on rigourously testing these models and understanding their limitations.
 
 <!--
 **Roxy7074/Roxy7074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
