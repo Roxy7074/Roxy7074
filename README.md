@@ -2,7 +2,7 @@
 ## How to reach me: story.r@northeastern.edu and/or roxys387@gmail.com
 
 - Im currently studying the software engineering foundations for LLM-integrated systems, building these systems and integrating
-them into software and focusing on rigourously testing these models and understanding their limitations.
+them into software and focusing on testing these models and understanding their limitations.
 
 - I am looking to collaborate on a project that integrates AI in C!
 
